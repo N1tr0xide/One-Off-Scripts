@@ -1,4 +1,4 @@
-echo off
+@echo off
 cls
 @echo FILE DELETER BY EXTENSION.
 echo.
