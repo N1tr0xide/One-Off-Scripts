@@ -1,5 +1,5 @@
 echo off
-echo.
+cls
 @echo FILE DELETER BY EXTENSION.
 echo.
 @echo How To Use:
